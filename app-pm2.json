@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "test-fe",
+			"script": "npm",
+			"args": "start"
+		}
+	]
+}
